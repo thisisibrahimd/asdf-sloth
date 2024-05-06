@@ -1,8 +1,8 @@
 # asdf-sloth
 
-[![Build Status](https://github.com/slok/asdf-sloth/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/slok/asdf-sloth/actions/workflows/ci.yml)
+[![Build Status](https://github.com/thisisibrahimd/asdf-sloth/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/thisisibrahimd/asdf-sloth/actions/workflows/ci.yml)
 
-[Sloth](https://sloth.dev) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
+[Sloth](https://github.com/thisisibrahimd/sloth) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 Check out the [asdf](https://github.com/asdf-vm/asdf) readme for instructions.
 
 ## Install
@@ -10,7 +10,7 @@ Check out the [asdf](https://github.com/asdf-vm/asdf) readme for instructions.
 ```shell
 asdf plugin add sloth
 # or
-asdf plugin add sloth https://github.com/slok/asdf-sloth.git
+asdf plugin add sloth https://github.com/thisisibrahimd/asdf-sloth.git
 ```
 
 ## Usage
