@@ -22,7 +22,7 @@ install() {
   local arch
   machine=$(uname -m)
   if [[ $machine == "arm64" ]] || [[ $machine == "aarch64" ]]; then
-    arch="arm64_v1"
+    arch="arm64"
   elif [[ $machine == *"386"* ]]; then
     arch="386"
   else
