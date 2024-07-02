@@ -26,7 +26,7 @@ install() {
   elif [[ $machine == *"386"* ]]; then
     arch="386"
   else
-    arch="amd64"
+    arch="x86_64"
   fi
 
   local download_url
