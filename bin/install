@@ -30,7 +30,7 @@ install() {
   fi
 
   local download_url
-  download_url="https://github.com/thisisibrahimd/sloth/releases/download/v${version}/sloth-${platform}-${arch}"
+  download_url="https://github.com/thisisibrahimd/sloth/releases/download/v${version}/sloth_${platform}_${arch}"
 
   mkdir -p "${bin_install_path}"
 
